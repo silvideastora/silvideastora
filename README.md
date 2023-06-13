@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi there!! 👋
 
 <!--
-**silvideastora/silvideastora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Silvi Rodríguez a front end developer<br>
+        Currently learning to walk in Backend technologies.<br>
+        Open to collaborating on interesting and innovative frontend projects.<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/silvi-rodriguez-54722784/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+-Talking about Personal Stuffs:
+
+-👩‍💻 I really love web development (Frontend and Backend, but specially Frontend 😍);
+
+-🌱 I’m currently working with HTML, CSS, JS, ReactJS, NextJS, Typescript, REST API, PostgreSQL, Docker;
+
+-💬 I really like to share my knowledge, I am happy to help 🍀 ;
+
+-</> I love being part of women in the tech industry as a developer </> ;
+
+-⚡️ Fun-Fact: I'm devoted to horror/apocalyptic videogames and George R.R. Martin's novels.😊;
+
+-📫 How to reach me: silvideastora@gmail.com;
+
 -->
