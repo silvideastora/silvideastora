@@ -1,6 +1,5 @@
 ### Hi there!! 👋
 
-<!--
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -29,4 +28,3 @@
 
 -📫 How to reach me: silvideastora@gmail.com;
 
--->
