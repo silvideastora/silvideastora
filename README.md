@@ -5,7 +5,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Silvi Rodríguez a front end developer<br>
-        Currently learning to walk in Backend technologies.<br>
+        Currently learning to walk in Backend technologies with Java.<br>
         Open to collaborating on interesting and innovative frontend projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/silvi-rodriguez-54722784/">
@@ -18,7 +18,7 @@
 
 -👩‍💻 I really love web development (Frontend and Backend, but specially Frontend 😍);
 
--🌱 I’m currently working with HTML, CSS, JS, ReactJS, NextJS, Typescript, REST API, PostgreSQL, Docker;
+-🌱 I’m currently working with HTML, CSS, JavaScript, ReactJS, NextJS, Typescript, REST API, PostgreSQL, SQL, Styled Components, Jira, Testing;
 
 -💬 I really like to share my knowledge, I am happy to help 🍀 ;
 
